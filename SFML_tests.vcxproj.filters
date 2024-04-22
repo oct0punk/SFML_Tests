@@ -63,4 +63,8 @@
       <Filter>Fichiers d%27en-tête</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\Blur.frag" />
+    <None Include="Shaders\Noise.frag" />
+  </ItemGroup>
 </Project>
